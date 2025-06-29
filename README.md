@@ -29,6 +29,9 @@ A retro groove color scheme with warm earthy tones. Features browns, oranges, an
 #### 🎮 **SynthWave '84**
 Travel back to the 1980s with hot pink, cyan, and purple neon colors. Perfect for creative writing with a retrofuturistic vibe.
 
+#### 🌅 **Ayu Mirage**
+The medium-contrast variant of Ayu. Warmer than Dark, cooler than Light. Features balanced colors perfect for extended use.
+
 #### 💚 **Hack the Box Terminal**
 Authentic HTB theme with signature bright green (#9fef00) on dark backgrounds. Perfect for cybersecurity enthusiasts and terminal lovers.
 
