@@ -1,0 +1,264 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetwriters/notesnook-themes/main/schemas/v1.schema.json",
+  "name": "Nord",
+  "id": "nord",
+  "version": 1.0,
+  "license": "MIT",
+  "homepage": "https://www.nordtheme.com",
+  "description": "An arctic, north-bluish clean and elegant theme",
+  "colorScheme": "dark",
+  "compatibilityVersion": 1,
+  "authors": [
+    {
+      "name": "Nord Theme",
+      "email": "themes@example.com",
+      "url": "https://www.nordtheme.com"
+    }
+  ],
+  "scopes": {
+    "base": {
+      "primary": {
+        "accent": "#88c0d0",
+        "paragraph": "#d8dee9",
+        "background": "#2e3440",
+        "border": "#3b4252",
+        "heading": "#eceff4",
+        "icon": "#81a1c1",
+        "separator": "#3b4252",
+        "placeholder": "#616e88",
+        "hover": "#3b4252",
+        "accentForeground": "#2e3440",
+        "backdrop": "#2e344080"
+      },
+      "secondary": {
+        "accent": "#81a1c1",
+        "paragraph": "#81a1c1",
+        "background": "#272c36",
+        "border": "#434c5e",
+        "heading": "#d8dee9",
+        "icon": "#616e88",
+        "separator": "#434c5e",
+        "placeholder": "#4c566a",
+        "hover": "#2e3440",
+        "accentForeground": "#2e3440",
+        "backdrop": "#272c3680"
+      },
+      "selected": {
+        "accent": "#8fbcbb",
+        "paragraph": "#eceff4",
+        "background": "#434c5e",
+        "border": "#8fbcbb",
+        "heading": "#8fbcbb",
+        "icon": "#8fbcbb",
+        "separator": "#8fbcbb",
+        "placeholder": "#d8dee9",
+        "hover": "#4c566a",
+        "accentForeground": "#2e3440",
+        "backdrop": "#434c5e80"
+      },
+      "disabled": {
+        "accent": "#616e88",
+        "paragraph": "#616e88",
+        "background": "#272c36",
+        "border": "#434c5e",
+        "heading": "#616e88",
+        "icon": "#4c566a",
+        "separator": "#434c5e",
+        "placeholder": "#4c566a",
+        "hover": "#2e3440",
+        "accentForeground": "#d8dee9",
+        "backdrop": "#272c3680"
+      },
+      "error": {
+        "accent": "#bf616a",
+        "paragraph": "#bf616a",
+        "background": "#3b2e34",
+        "border": "#bf616a",
+        "heading": "#bf616a",
+        "icon": "#bf616a",
+        "separator": "#bf616a",
+        "placeholder": "#d08770",
+        "hover": "#46343a",
+        "accentForeground": "#2e3440",
+        "backdrop": "#3b2e3480"
+      },
+      "success": {
+        "accent": "#a3be8c",
+        "paragraph": "#a3be8c",
+        "background": "#2e3b34",
+        "border": "#a3be8c",
+        "heading": "#a3be8c",
+        "icon": "#a3be8c",
+        "separator": "#a3be8c",
+        "placeholder": "#b8cea8",
+        "hover": "#34463a",
+        "accentForeground": "#2e3440",
+        "backdrop": "#2e3b3480"
+      }
+    },
+    "navigationMenu": {
+      "primary": {
+        "accent": "#88c0d0",
+        "paragraph": "#d8dee9",
+        "background": "#272c36",
+        "border": "#3b4252",
+        "heading": "#eceff4",
+        "icon": "#88c0d0",
+        "separator": "#434c5e",
+        "placeholder": "#616e88",
+        "hover": "#2e3440",
+        "accentForeground": "#2e3440",
+        "backdrop": "#272c3680"
+      },
+      "secondary": {
+        "accent": "#81a1c1",
+        "paragraph": "#81a1c1",
+        "background": "#202530",
+        "border": "#434c5e",
+        "heading": "#d8dee9",
+        "icon": "#616e88",
+        "separator": "#3b4252",
+        "placeholder": "#4c566a",
+        "hover": "#272c36",
+        "accentForeground": "#2e3440",
+        "backdrop": "#20253080"
+      },
+      "selected": {
+        "accent": "#5e81ac",
+        "paragraph": "#eceff4",
+        "background": "#434c5e",
+        "border": "#5e81ac",
+        "heading": "#eceff4",
+        "icon": "#5e81ac",
+        "separator": "#5e81ac",
+        "placeholder": "#d8dee9",
+        "hover": "#4c566a",
+        "accentForeground": "#2e3440",
+        "backdrop": "#434c5e80"
+      }
+    },
+    "editor": {
+      "primary": {
+        "accent": "#88c0d0",
+        "paragraph": "#d8dee9",
+        "background": "#2e3440",
+        "border": "#3b4252",
+        "heading": "#81a1c1",
+        "icon": "#d8dee9",
+        "separator": "#3b4252",
+        "placeholder": "#616e88",
+        "hover": "#3b4252",
+        "accentForeground": "#2e3440",
+        "backdrop": "#2e344080"
+      },
+      "secondary": {
+        "accent": "#81a1c1",
+        "paragraph": "#81a1c1",
+        "background": "#272c36",
+        "border": "#434c5e",
+        "heading": "#ebcb8b",
+        "icon": "#616e88",
+        "separator": "#434c5e",
+        "placeholder": "#4c566a",
+        "hover": "#2e3440",
+        "accentForeground": "#2e3440",
+        "backdrop": "#272c3680"
+      },
+      "selected": {
+        "accent": "#ebcb8b",
+        "paragraph": "#2e3440",
+        "background": "#ebcb8b",
+        "border": "#ebcb8b",
+        "heading": "#2e3440",
+        "icon": "#2e3440",
+        "separator": "#ebcb8b",
+        "placeholder": "#2e3440",
+        "hover": "#edd49f",
+        "accentForeground": "#2e3440",
+        "backdrop": "#ebcb8b80"
+      }
+    },
+    "list": {
+      "primary": {
+        "accent": "#88c0d0",
+        "paragraph": "#d8dee9",
+        "background": "#2e3440",
+        "border": "#3b4252",
+        "heading": "#eceff4",
+        "icon": "#d8dee9",
+        "separator": "#3b4252",
+        "placeholder": "#616e88",
+        "hover": "#3b4252",
+        "accentForeground": "#2e3440",
+        "backdrop": "#2e344080"
+      },
+      "secondary": {
+        "accent": "#81a1c1",
+        "paragraph": "#81a1c1",
+        "background": "#272c36",
+        "border": "#434c5e",
+        "heading": "#d8dee9",
+        "icon": "#616e88",
+        "separator": "#434c5e",
+        "placeholder": "#4c566a",
+        "hover": "#2e3440",
+        "accentForeground": "#2e3440",
+        "backdrop": "#272c3680"
+      },
+      "selected": {
+        "accent": "#8fbcbb",
+        "paragraph": "#eceff4",
+        "background": "#434c5e",
+        "border": "#8fbcbb",
+        "heading": "#8fbcbb",
+        "icon": "#8fbcbb",
+        "separator": "#8fbcbb",
+        "placeholder": "#d8dee9",
+        "hover": "#4c566a",
+        "accentForeground": "#2e3440",
+        "backdrop": "#434c5e80"
+      }
+    },
+    "statusBar": {
+      "primary": {
+        "accent": "#88c0d0",
+        "paragraph": "#616e88",
+        "background": "#202530",
+        "border": "#434c5e",
+        "heading": "#d8dee9",
+        "icon": "#616e88",
+        "separator": "#434c5e",
+        "placeholder": "#4c566a",
+        "hover": "#272c36",
+        "accentForeground": "#2e3440",
+        "backdrop": "#20253080"
+      },
+      "secondary": {
+        "accent": "#81a1c1",
+        "paragraph": "#4c566a",
+        "background": "#1a1f29",
+        "border": "#3b4252",
+        "heading": "#616e88",
+        "icon": "#4c566a",
+        "separator": "#3b4252",
+        "placeholder": "#434c5e",
+        "hover": "#202530",
+        "accentForeground": "#2e3440",
+        "backdrop": "#1a1f2980"
+      },
+      "selected": {
+        "accent": "#5e81ac",
+        "paragraph": "#eceff4",
+        "background": "#272c36",
+        "border": "#5e81ac",
+        "heading": "#eceff4",
+        "icon": "#5e81ac",
+        "separator": "#5e81ac",
+        "placeholder": "#d8dee9",
+        "hover": "#2e3440",
+        "accentForeground": "#2e3440",
+        "backdrop": "#272c3680"
+      }
+    }
+  }
+}
